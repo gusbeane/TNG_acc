@@ -1,0 +1,7 @@
+Is the distribution of flow times easy to characterize? Does duration of events follow a simple distribution
+
+Typical size? Correlate with duration?
+
+They come in from a random direction? Correlated direction
+
+
